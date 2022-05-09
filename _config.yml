@@ -22,7 +22,7 @@ title: leparduk jekyll
 email: leparduk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Testing jekyll engine
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/tridentcc-tale" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leparduk
 github_username:  leparduk
@@ -33,8 +33,6 @@ plugins:
   - jekyll-feed
 
 markdown: redcarpet
-pygments: true
-baseurl: /tridentcc-tale
 
 # Exclude from processing.
 # The following items will not be processed, by default.
